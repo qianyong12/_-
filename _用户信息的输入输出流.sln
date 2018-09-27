@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_用户信息的输入输出流", "_用户信息的输入输出流\_用户信息的输入输出流.csproj", "{5016E923-11EA-42C7-9321-06776C780BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_登陆注册用户界面", "_登陆注册用户界面\_登陆注册用户界面.csproj", "{EA06B613-748B-4211-826F-CA3B38464537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5016E923-11EA-42C7-9321-06776C780BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5016E923-11EA-42C7-9321-06776C780BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5016E923-11EA-42C7-9321-06776C780BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5016E923-11EA-42C7-9321-06776C780BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA06B613-748B-4211-826F-CA3B38464537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA06B613-748B-4211-826F-CA3B38464537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA06B613-748B-4211-826F-CA3B38464537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA06B613-748B-4211-826F-CA3B38464537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D45D3A-066F-4F7C-8F25-23D01CCAEACD}
+	EndGlobalSection
+EndGlobal
